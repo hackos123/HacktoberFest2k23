@@ -56,3 +56,7 @@
 ### **Dhyey**: [InvisiblePro](https://github.com/InvisiblePro)
 - Gujarat, India
 - Hobbies: Python
+
+### **Devvrat Gupta**: [devvrat011](https://github.com/devvrat011)
+- Uttar Pradesh, India
+- Hobbies: Competitive Programming, Web Dev
