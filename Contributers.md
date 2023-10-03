@@ -56,3 +56,7 @@
 ### **Dhyey**: [InvisiblePro](https://github.com/InvisiblePro)
 - Gujarat, India
 - Hobbies: Python
+
+### **Pratik Gupta**: [Pratik1603](https://github.com/Pratik1603)
+- Haryana, India
+- Hobbies: Web Dev, Blockchain dev
