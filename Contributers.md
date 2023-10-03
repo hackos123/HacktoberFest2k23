@@ -56,3 +56,7 @@
 ### **Dhyey**: [InvisiblePro](https://github.com/InvisiblePro)
 - Gujarat, India
 - Hobbies: Python
+
+### **Devanand Sahoo**: [InvisiblePro](https://github.com/Devasahoo123)
+- UP, India
+- Hobbies: C++
